@@ -10,21 +10,21 @@ git init
 ```
 git status
 ```
--oder listar y ver archivos pendientes
--i no están listos se tornará rojo, en cambio si lo están serán verde.
+- oder listar y ver archivos pendientes
+- i no están listos se tornará rojo, en cambio si lo están serán verde.
 
 ```
 git add.
 git add name_f_ile
 ```
--Se encarga de agregar a los archivos a la memoria GIT (STASH).
+- Se encarga de agregar a los archivos a la memoria GIT (STASH).
 
 ```
 git commt -m "coment"
 
 ```
 
- -Crear un punto en la linea de tiempo :alarm_clock: de nuestros cambios y a estos se le es posible adjuntar un comentario
+ - Crear un punto en la linea de tiempo :alarm_clock: de nuestros cambios y a estos se le es posible adjuntar un comentario
 - :eye: Los comentarios deben estar relacionados a los cambios que hice, esto es una recomendación
 
 ```
