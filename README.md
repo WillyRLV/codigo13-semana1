@@ -46,4 +46,17 @@ git branch
 
 - Sirve para listar los branch que tengo localmente y me dice cual me encuentro actualmente.
 
+```
+git checkout -b name_of_branch
+
+```
+- Sirve para crear un branch nuevo y poder trabajar en el.
+
+```
+git checkout  main or name_of_branch
+
+```
+- Sirve para movernos entre ramas.
+- :eye: Si el checkout no tiene el -b solo es para moverse.
+
 
