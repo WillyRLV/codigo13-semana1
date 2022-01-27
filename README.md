@@ -1,4 +1,4 @@
-# codigo13-semana1
+# COMANDOS GIT
 semana 1 del bootcamp codigo tecsup -#13
 
 ```
