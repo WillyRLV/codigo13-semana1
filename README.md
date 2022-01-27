@@ -38,3 +38,12 @@ git pull origin main
 
 ```
 - Sirve para poder descargar los cambios a nuestro repositorio en la nube, en este caso github.
+
+```
+git branch
+
+```
+
+- Sirve para listar los branch que tengo localmente y me dice cual me encuentro actualmente.
+
+
